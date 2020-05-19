@@ -1,6 +1,7 @@
 var ticks=0;
 var tick_skip=2;
-var interval=0;
+var interval=1;
+var device_mul=1;
 var running=false;
 var buffer_size=128
 
@@ -19,9 +20,10 @@ function motion_handler(event) {
     x = event.acceleration.x
     y = event.acceleration.y
     z = event.acceleration.z
-    interval = event.interval
+    interval = event.interval * device_mul
     // console.log(interval)
 
+    $("#freq").html("" + (1/interval*1000)+" Hz")
     $("#acc-x").html(x)
     $("#acc-y").html(y)
     $("#acc-z").html(z)
@@ -97,6 +99,8 @@ function motion_handler_req() {
       .then(permissionState => {
         if (permissionState === 'granted') {
           console.log("Permission Granted")
+          device_mul=1000
+
         }
       } )
       .catch(console.error);
