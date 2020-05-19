@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3c5baad-cf4c-4f99-8662-530b710e7cbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1c5UaKAtSZ7mqxrDxzA0o0rOQDZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c5baad-cf4c-4f99-8662-530b710e7cbb" name="Default Changelist" comment="" />
+      <created>1589818009958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589818009958</updated>
+      <workItem from="1589818013600" duration="785000" />
+      <workItem from="1589819511737" duration="26116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589837771271">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="322" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1589837771271" />
+    <state x="323" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.23.1643.1027@37.23.1643.1027" timestamp="1589819995029" />
+    <state x="360" y="175" key="SettingsEditor" timestamp="1589822387929">
+      <screen x="37" y="23" width="1643" height="1027" />
+    </state>
+    <state x="360" y="175" key="SettingsEditor/37.23.1643.1027@37.23.1643.1027" timestamp="1589822387929" />
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1589897881292">
+      <screen x="37" y="23" width="1643" height="1027" />
+    </state>
+    <state x="523" y="250" width="670" height="676" key="search.everywhere.popup/36.23.1644.1027@36.23.1644.1027" timestamp="1589837370793" />
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup/37.23.1643.1027@37.23.1643.1027" timestamp="1589897881292" />
+  </component>
+</project>
